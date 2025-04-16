@@ -1,0 +1,73 @@
+# 🩺 Doctor Dashboard – Web Application
+
+**Doctor Dashboard** is a responsive web interface for displaying essential medical data, charts, and information tailored to physicians. Built with HTML, CSS, and JavaScript, it provides a foundation for healthcare professionals to monitor patients and access data efficiently.
+
+---
+
+## 🌐 Live Preview
+
+🚀 [**View Project on Vercel**](https://doctor-dashboard01-preview.vercel.app)
+
+---
+
+## 📁 Project Structure
+
+```
+doctor-dashboard01-preview/
+├── index.html
+├── styles/
+│   └── main.css
+├── scripts/
+│   └── app.js
+├── assets/
+│   ├── icons/
+│   └── charts/
+└── README.md
+```
+
+---
+
+## 🎯 Features
+
+- **Doctor-Oriented Layout**: Displays patient summaries, appointment tracking, and stats
+- **Interactive Charts**: Include visuals for patient data insights
+- **Mobile-Friendly**: Clean, responsive interface
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/asokolowskii/doctor-dashboard01-preview.git
+   ```
+
+2. **Navigate to the project directory**:
+   ```bash
+   cd doctor-dashboard01-preview
+   ```
+
+3. **Open `index.html` in your browser**.
+
+---
+
+## 🛠 Technologies Used
+
+- **HTML5**
+- **CSS3**
+- **JavaScript (ES6+)**
+
+---
+
+## 📬 Contact
+
+- GitHub: [@asokolowskii](https://github.com/asokolowskii)
+- Email: [asokolowsk@student.agh.edu.pl]
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
