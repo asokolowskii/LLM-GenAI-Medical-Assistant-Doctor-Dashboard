@@ -9,6 +9,8 @@
 🚀 [**View Project on Vercel**](https://doctor-dashboard01-preview.vercel.app)
 
 ---
+![UX/UI Prototype](UX_UI%20Prototype%201.png)
+
 
 ## 📁 Project Structure
 
