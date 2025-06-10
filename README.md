@@ -6,7 +6,10 @@
 
 ## 🌐 Live Preview
 
-🚀 [**View Project on Vercel**](https://doctor-dashboard01-preview.vercel.app)
+
+🚀 Role Selection Page: [**View Project on Vercel**](https://llm-gen-ai-mockup-page3.vercel.app)
+
+🚀 Doctor Dashboard: [**View Project on Vercel**](https://doctor-dashboard01-preview.vercel.app)
 
 ---
 ![UX/UI Prototype](UX_UI%20Prototype%201.png)
