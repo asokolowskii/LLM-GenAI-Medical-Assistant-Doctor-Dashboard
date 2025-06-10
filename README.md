@@ -11,6 +11,14 @@
 
 🚀 Doctor Dashboard: [**View Project on Vercel**](https://doctor-dashboard01-preview.vercel.app)
 
+🚀 Patient Dashboard: [**View Project on Vercel**](https://patient-dashboard-preview.vercel.app)
+
+🚀 List of Patients: [**View Project on Vercel**](https://list-of-patients-preview.vercel.app)
+
+🚀 Patient Appointments: [**View Project on Vercel**](https://patient-appointments-preview-g.vercel.app)
+
+🚀 [**View Project on Vercel**](https://doctor-trials.vercel.app)
+
 ---
 ![UX/UI Prototype](UX_UI%20Prototype%201.png)
 
