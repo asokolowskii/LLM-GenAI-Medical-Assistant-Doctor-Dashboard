@@ -17,7 +17,7 @@
 
 🚀 Patient Appointments: [**View Project on Vercel**](https://patient-appointments-preview-g.vercel.app)
 
-🚀 [**View Project on Vercel**](https://doctor-trials.vercel.app)
+🚀 Doctor Trials: [**View Project on Vercel**](https://doctor-trials.vercel.app)
 
 ---
 ![UX/UI Prototype](UX_UI%20Prototype%201.png)
